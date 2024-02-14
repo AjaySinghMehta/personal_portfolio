@@ -97,7 +97,8 @@ export const Projects = () => {
                           opportunities for exploration and discovery.</p>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
-                        <p>Just to ask how is life? Nah!! not really Coming soon....</p>
+                        <p>Just to ask how is life? Nah!! not really If you want to ckeck out more of the projects do check out my github and linkedin 
+                          <br/>More coming soon....</p>
                       </Tab.Pane>
                     </Tab.Content>
                   </Tab.Container>
